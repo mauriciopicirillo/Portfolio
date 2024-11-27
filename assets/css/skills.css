@@ -1,0 +1,59 @@
+
+.skills {
+    display: flex;
+    flex-direction: row;
+    background: none;
+}
+
+.skills .tools {
+    background: none;
+}
+
+.skills .tools h3 {
+    text-align: center;
+    background: none;
+}
+
+.skills .tools ul {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    flex-wrap: wrap;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    background: none;
+    padding-inline-start: 0;
+}
+
+.skills .tools ul li {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    flex-wrap: wrap;
+    
+}
+
+.icone {
+    width: 100px;
+    height: 100px;
+    background: none;
+    margin: 0 1rem 1rem 0;
+    padding: 0;
+
+}
+
+.skills h3 {
+    background: none;
+}
+.skills .personal {
+    background: none;
+}
+
+
+
+
+
+
+
+
